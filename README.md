@@ -132,4 +132,6 @@ Step 4: Visualisation & Insights
 
 ### References
 
-
+1. Data Analytics Made Accessible by Dr. Anil Maheshwari
+2. Data Analysis Training/Mentorship by Webdeves Academy
+3. 
