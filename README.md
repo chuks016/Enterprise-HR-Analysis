@@ -1,5 +1,18 @@
 # Enterprise HR Analysis
 
+## Table of Content
+- [Project Overview](project-overview)
+- [Data Sources](data-sources)
+- [Tools](tools)
+- [Dataset Description](dataset-description)
+- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Data Analysis](data-analysis)
+- [Results](results)
+- [Recommendations](recommendations)
+- [Limitations](limitations)
+- [References](references)
+
+
 ### Project Overview
 
 This project focuses on analysing an HR dataset to extract actionable insights, enhance decision-making, and support HR strategies. The dataset includes comprehensive information about employees, such as demographic details, performance metrics, training records, and employment classifications. The analysis aims to identify key trends, improve workforce efficiency, and optimise training expenditures.
@@ -134,4 +147,4 @@ Step 4: Visualisation & Insights
 
 1. Data Analytics Made Accessible by Dr. Anil Maheshwari
 2. Data Analysis Training/Mentorship by Webdeves Academy
-3. 
+3. [Data Analyst Bootcamp by Alex The Analyst](Data Analyst Bootcamp: http://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
