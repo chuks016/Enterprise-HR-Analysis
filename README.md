@@ -15,7 +15,11 @@
 
 ### Project Overview
 
+
 This project focuses on analysing an HR dataset to extract actionable insights, enhance decision-making, and support HR strategies. The dataset includes comprehensive information about employees, such as demographic details, performance metrics, training records, and employment classifications. The analysis aims to identify key trends, improve workforce efficiency, and optimise training expenditures.
+
+![Visualisation 2](https://github.com/user-attachments/assets/4197154c-0819-454b-ac9c-1b8da438143e)
+
 
 ### Data Sources
 
