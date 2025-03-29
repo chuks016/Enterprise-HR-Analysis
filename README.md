@@ -17,13 +17,13 @@ The dataset used in this project is structured to simulate real-world HR records
 
 The dataset contains the following key columns:
 
-- Employee Information: Emp ID, Start Date, Job Title, Department, Business Unit, Division, Employee Status, Employee Type, Pay Zone, Employee Classification Type.
+1. Employee Information: Emp ID, Start Date, Job Title, Department, Business Unit, Division, Employee Status, Employee Type, Pay Zone, Employee Classification Type.
 
-- Demographics: DOB, Age, State, Gender, Race, Marital Status.
+2. Demographics: DOB, Age, State, Gender, Race, Marital Status.
 
-- Performance Metrics: Performance Score, Current Employee Rating, Survey Date, Engagement Score, Satisfaction Score, Work-Life Balance Score.
+3. Performance Metrics: Performance Score, Current Employee Rating, Survey Date, Engagement Score, Satisfaction Score, Work-Life Balance Score.
 
-- Training Data: Training Date, Training Programme Name, Training Type, Training Outcome, Training Duration (Days), Training Cost.
+4. Training Data: Training Date, Training Programme Name, Training Type, Training Outcome, Training Duration (Days), Training Cost.
 
 ### Exploratory Data Analysis
 
@@ -76,3 +76,60 @@ Step 4: Visualisation & Insights
 - Created Power BI dashboards to visualise distributions and trends.
 
 - Highlighted cost-effective training programmes and departments with the highest workforce engagement.
+
+### Results
+
+1. Total Employees: The organisation has a total of 2,845 employees.
+
+2. Gender Distribution: 1,588 females (56%) and 1,257 males (44%).
+
+3. Average Age: The average age of employees is 50 years, with age groups categorised as follows:
+   - Advanced: 970 employees
+   - Adults: 952 employees
+   - Aged Adults: 672 employees
+   - Young Adults: 251 employees
+
+4. Departmental Breakdown: Employees are distributed across departments as:
+   - Production: 1,910 employees
+   - IT/IS: 409 employees
+   - Sales: 311 employees
+   - Software Engineering: 112 employees
+   - Admin Offices: 79 employees
+   - Executive Offices: 24 employees
+  
+5. Employee Classification
+   - Full-time: 966 employees (34%)
+   - Part-time: 980 employees (34%)
+   - Temporary: 899 employees (32%)
+
+6. State Distribution: Employees are spread across various states in the United States as shown in the dashboard, Massachusetts has the highest number of staffs (2523)
+
+7. Training Costs
+   - Total Training Cost: £2 million
+   - Training Cost by Department:
+     - Production: £230.4K
+     - IT/IS: £66.32K
+     - Sales: £140.5K
+     - Software Engineering: £1.36K
+    
+8. Attrition: 387 employees have left the organisation, giving an attrition rate of 14%.
+
+9. Active Employees: Using attrition data, 2,458 employees are currently active (2,845 total employees minus 387 who departed).
+
+### Recommendations
+
+- Foster gender equity if significant disparities are identified in representation or training opportunities.
+- Optimise training expenditures by focusing on departments or programmes with higher cost-effectiveness.
+- Address states or business units with lower employee numbers to ensure balanced growth.
+- Encourage employee engagement initiatives in age groups or demographics with lower satisfaction scores.
+- Continue exploring data to enhance workforce planning and decision-making.
+
+### Limitations
+
+- The dataset might contain simulated data that may not fully represent real-world variations.
+- External factors influencing satisfaction, engagement, or performance were not accounted for in this analysis.
+- Limited granularity in some fields (e.g., training details) may restrict deeper insights.
+
+### References
+
+
